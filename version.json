@@ -1,6 +1,6 @@
 ﻿{
     "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar",
-    "changelog":  "Auto-build update released",
-    "version":  "2.3.0",
-    "build_timestamp":  202611081312
+    "changelog":  "v2.4.0: Cloud Accounts, Remote Auth, Anti-Crack \u0026 Physics Fixes",
+    "version":  "2.4.0",
+    "build_timestamp":  202611081347
 }
