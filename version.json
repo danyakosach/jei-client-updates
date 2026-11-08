@@ -1,6 +1,6 @@
 ﻿{
-    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar",
-    "changelog":  "v2.6.0: StrengthSmp Keymaster Discord Auth, Top-Right Avatar \u0026 100% Stripped Stealth Vault",
-    "version":  "2.6.0",
-    "build_timestamp":  202611081712
+    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611081759",
+    "changelog":  "v2.7.0: Sleek Discord-Only Login Card, Fixed Minecraft-Discord Sync, Anti-Scanner Cleanup \u0026 Cache-Busting Auto-Updater",
+    "version":  "2.7.0",
+    "build_timestamp":  202611081759
 }
