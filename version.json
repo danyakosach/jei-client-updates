@@ -1,6 +1,6 @@
 ﻿{
-    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611102335",
-    "changelog":  "v2.9.0: Smart Context-Aware JumpReset (Packet KB + Angle + Anti-Fall + P-Crit \u0026 Escape Protection)",
-    "version":  "2.9.0",
-    "build_timestamp":  202611102335
+    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611102357",
+    "changelog":  "v2.9.1: Strict Server-Only Module Payloads (No Local Fallback) \u0026 Smart Context JumpReset",
+    "version":  "2.9.1",
+    "build_timestamp":  202611102357
 }
