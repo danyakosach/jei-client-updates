@@ -1,6 +1,6 @@
 ﻿{
-    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611091932",
-    "changelog":  "v2.8.0: JumpReset Legit Module, Direct DM Bot Login, Unified Cloud Admin Panel \u0026 Version 2.8.0 Release",
-    "version":  "2.8.0",
-    "build_timestamp":  202611091932
+    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611102335",
+    "changelog":  "v2.9.0: Smart Context-Aware JumpReset (Packet KB + Angle + Anti-Fall + P-Crit \u0026 Escape Protection)",
+    "version":  "2.9.0",
+    "build_timestamp":  202611102335
 }
