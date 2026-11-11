@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611111627",
-    "changelog":  "v2.9.8: Synchronous WorldRender 2D ESP projection locked to live GPU ModelView \u0026 GameRenderer projection, silhouette tilt framing",
-    "version":  "2.9.8",
-    "build_timestamp":  202611111627
+    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611111659",
+    "changelog":  "v2.9.9: Bypass Lunar Client 20 FPS Gnetum HUD cache via uncached GameRenderer.render HUD dispatch for full-FPS 2D ESP, PlayerArrows, and HUD overlays",
+    "version":  "2.9.9",
+    "build_timestamp":  202611111659
 }
