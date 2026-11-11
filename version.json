@@ -1,6 +1,6 @@
 ﻿{
-    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611110956",
-    "changelog":  "v2.9.1: Strict Server-Only Module Payloads (No Local Fallback) \u0026 Smart Context JumpReset",
-    "version":  "2.9.1",
-    "build_timestamp":  202611110956
+    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611111009",
+    "changelog":  "v2.9.2: Asymmetric Ed25519 Server Signatures, Strict HWID Sessions \u0026 Zero Offline Owner Bypass",
+    "version":  "2.9.2",
+    "build_timestamp":  202611111009
 }
