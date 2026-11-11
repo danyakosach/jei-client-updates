@@ -1,6 +1,6 @@
-﻿{
-    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611111033",
-    "changelog":  "v2.9.3: Visual Overhaul (HD Discord Avatar, Glass Blur UI, Client Themes \u0026 Animated TargetHUD)",
-    "version":  "2.9.3",
-    "build_timestamp":  202611111033
+{
+    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611111107",
+    "changelog":  "v2.9.4: Windows Auto-Updater fix, Server Stability \u0026 Diagnostics",
+    "version":  "2.9.4",
+    "build_timestamp":  202611111107
 }
