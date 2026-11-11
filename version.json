@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611111107",
-    "changelog":  "v2.9.4: Windows Auto-Updater fix, Server Stability \u0026 Diagnostics",
-    "version":  "2.9.4",
-    "build_timestamp":  202611111107
+    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611111442",
+    "changelog":  "v2.9.5: Smooth Morphing Animations, Theme Dropdown (+Pure Black), Persistent Config Profiles",
+    "version":  "2.9.5",
+    "build_timestamp":  202611111442
 }
