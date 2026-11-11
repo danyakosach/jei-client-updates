@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611111659",
-    "changelog":  "v2.9.9: Bypass Lunar Client 20 FPS Gnetum HUD cache via uncached GameRenderer.render HUD dispatch for full-FPS 2D ESP, PlayerArrows, and HUD overlays",
-    "version":  "2.9.9",
-    "build_timestamp":  202611111659
+    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611111727",
+    "changelog":  "v3.0.0: Meteor-style Freecam rewrite (chunk visibility, knockback \u0026 hit return, gravity intact), SkyColor theme sky, Sounds module (toggle \u0026 hit sounds), TriggerBot Spacebar uppercuts \u0026 real click CPS simulation, Grim-safe ShieldBreaker, compact bottom CFG button, miniature theme PlayerArrows, and MaceHelper 30 CPS restore",
+    "version":  "3.0.0",
+    "build_timestamp":  202611111727
 }
