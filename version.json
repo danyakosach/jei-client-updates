@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611111547",
-    "changelog":  "v2.9.7: Overhauled 144Hz-260Hz AA subpixel 2D ESP, Iris shadow pass guard, upright anti-bloat projection, duplicate nametag fix",
-    "version":  "2.9.7",
-    "build_timestamp":  202611111547
+    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611111627",
+    "changelog":  "v2.9.8: Synchronous WorldRender 2D ESP projection locked to live GPU ModelView \u0026 GameRenderer projection, silhouette tilt framing",
+    "version":  "2.9.8",
+    "build_timestamp":  202611111627
 }
