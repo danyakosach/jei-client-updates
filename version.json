@@ -1,6 +1,7 @@
 {
-    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611121212",
-    "changelog":  "v3.0.2: Added reverse Discord code linking (DC-XXXXXX via DM /code), automatic Windows system proxy \u0026 HTTP/1.1 routing, and one-click TLS-verified Auto-Proxy finder for blocked regions",
-    "version":  "3.0.2",
-    "build_timestamp":  202611121212
+    "download_url":  "https://strengthsmp.enzonic.dev/api/v1/stream/mod.jar",
+    "changelog":  "v3.0.3: Fix crash on join (NoClassDefFoundError FreecamModule), stripped leaked classes, auto-updater routed to Strengthsmp server with Russia proxy fallback",
+    "fallback_download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611121938",
+    "version":  "3.0.3",
+    "build_timestamp":  202611121938
 }
