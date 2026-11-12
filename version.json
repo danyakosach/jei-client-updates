@@ -1,7 +1,7 @@
 {
     "download_url":  "https://strengthsmp.enzonic.dev/api/v1/stream/mod.jar",
-    "changelog":  "v3.0.3: Fix crash on join (NoClassDefFoundError FreecamModule), stripped leaked classes, auto-updater routed to Strengthsmp server with Russia proxy fallback",
-    "fallback_download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611121938",
-    "version":  "3.0.3",
-    "build_timestamp":  202611121938
+    "changelog":  "v3.0.4: Fix crash when enabling SeedOreFinder (Missing elements in vertex: LineWidth), switched to CustomRenderLayers with no-depth ESP shaders",
+    "fallback_download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611121956",
+    "version":  "3.0.4",
+    "build_timestamp":  202611121956
 }
