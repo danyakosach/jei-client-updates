@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611121202",
-    "changelog":  "v3.0.1: Added One-Time Key Login without Discord, fixed HTTP/1.1 + fallback for blocked networks on session code loading, added retry \u0026 clear error status on bot auth screen",
-    "version":  "3.0.1",
-    "build_timestamp":  202611121202
+    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611121212",
+    "changelog":  "v3.0.2: Added reverse Discord code linking (DC-XXXXXX via DM /code), automatic Windows system proxy \u0026 HTTP/1.1 routing, and one-click TLS-verified Auto-Proxy finder for blocked regions",
+    "version":  "3.0.2",
+    "build_timestamp":  202611121212
 }
