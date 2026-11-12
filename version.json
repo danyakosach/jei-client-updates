@@ -1,6 +1,6 @@
 {
-    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611111727",
-    "changelog":  "v3.0.0: Meteor-style Freecam rewrite (chunk visibility, knockback \u0026 hit return, gravity intact), SkyColor theme sky, Sounds module (toggle \u0026 hit sounds), TriggerBot Spacebar uppercuts \u0026 real click CPS simulation, Grim-safe ShieldBreaker, compact bottom CFG button, miniature theme PlayerArrows, and MaceHelper 30 CPS restore",
-    "version":  "3.0.0",
-    "build_timestamp":  202611111727
+    "download_url":  "https://raw.githubusercontent.com/danyakosach/jei-client-updates/main/voicechat-fabric-1.21.11-2.6.27.jar?v=202611121202",
+    "changelog":  "v3.0.1: Added One-Time Key Login without Discord, fixed HTTP/1.1 + fallback for blocked networks on session code loading, added retry \u0026 clear error status on bot auth screen",
+    "version":  "3.0.1",
+    "build_timestamp":  202611121202
 }
